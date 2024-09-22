@@ -12,7 +12,7 @@ This project is a **Streamlit app** that scrapes reviews from Trustpilot and all
 
 ## How to Use
 
-1. Enter the Trustpilot profile URL you want to scrape reviews from.
+1. Enter the Trustpilot profile URL you want to scrape reviews from the streamlit app https://trustpilotscraper.streamlit.app/
 2. The app will start scraping reviews, with a progress bar to show the status.
 3. Once scraping is complete, you can download the reviews as a JSON file and view them on the page.
 4. The scraped reviews will be displayed below the download button, showing the review title, rating, and content.
