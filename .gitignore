@@ -1,0 +1,6 @@
+# Ignore the virtual environment directory
+venv/
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+# Ignore logs
+*.log
